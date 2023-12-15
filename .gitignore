@@ -1,0 +1,28 @@
+# Django related
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# Django's static and media files
+/static/
+/media/
+
+# Ignore specific folders for this project
+/venv/
+/trash/
+
+# Virtual environment
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Additional files and folders
+*.swp
+*~
+.DS_Store
